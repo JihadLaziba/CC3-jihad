@@ -1,0 +1,26 @@
+.user {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+  }
+  .user image {
+    width: 350px;
+    height: 350px;
+  }
+  .user button {
+    cursor: pointer;
+    width: 70%;
+    background-color: rgb(75, 205, 209);
+    color: white;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 8px;
+    border: none;
+  }
+  .Name{
+      font-size: 25px;
+      font-weight: bold;
+  }
